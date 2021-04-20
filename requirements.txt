@@ -1,0 +1,2 @@
+pip install pyjokes
+pip install firebase-admin
